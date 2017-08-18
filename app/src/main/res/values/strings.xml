@@ -1,0 +1,54 @@
+<!--
+Snake - an Android Game
+Copyright 2012 Nick Eyre <nick@nickeyre.com>
+
+Snake is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+Snake is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with Snake.  If not, see <http://www.gnu.org/licenses/>.
+-->
+
+<resources>
+  <string name="app_name">Coke Game</string>
+  <string name="options">Serpiente Optiones</string>
+  <string name="optionsButton">Optiones</string>
+  <string name="begin">Comenzar</string>
+  <string name="acerca">Acerca de</string>
+  <string name="gameover">Terminar</string>
+  <string name="paused">Pausa</string>
+  <string name="theme">Tema</string>
+  <string name="controls">Controles</string>
+  <string name="viewMode">Modo de Vista</string>
+  <string name="speed">Velocidad</string>
+  <string name="back">Atras</string>
+
+  <string-array name="optionsTheme">
+    <item>Light</item>
+    <item>Dark</item>
+  </string-array>
+
+  <string-array name="optionsControls">
+    <item>Cuatro direcciones</item>
+    <item>Dos direcciones</item>
+  </string-array>
+
+  <string-array name="optionsView">
+    <item>Moderno</item>
+    <item>Clasico</item>
+  </string-array>
+
+  <string-array name="optionsSpeed">
+    <item> Lento</item>
+    <item>Normal</item>
+    <item>Rapido</item>
+    <item>Extremo</item>
+  </string-array>
+</resources>
